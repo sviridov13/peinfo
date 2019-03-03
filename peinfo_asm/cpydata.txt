@@ -1,0 +1,27 @@
+***********  NT Header 232:
+File header 236:
+        Machine: 0000014C
+        Size optional header: 224
+        Characteristics: 00000102 IMAGE_FILE_EXECUTABLE_IMAGE IMAGE_FILE_32BIT_MACHINE
+Optional header: 256
+        LinkerVersion: 9 0
+        SizeOfCode: 16000
+        SizeOfInitializedData: 8200
+        SizeOfUninitializedData: 0
+        BaseOfCode: 1000
+        BaseOfData: 17000
+        AddressOfEntryPoint: 14ca
+        ImageBase: 400000
+        SizeOfImage: 20000
+        SizeOfHeaders: 400
+        SectionAlignment: 1000
+        FileAlignment: 200
+        MajorOperatingSystemVersion: 5
+        MinorOperatingSystemVersion: 0
+        CheckSum: 0
+        SizeOfStackReserve: 100000
+        SizeOfStackCommit: 1000
+        SizeOfHeapReserve: 100000
+        SizeOfHeapCommit: 1000
+        Subsystem: EFI_ROM
+        DllCharacteristics: (8140)DYNAMIC_BASE NX_COMPAT

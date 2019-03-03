@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "peinfo", "pe.vcxproj", "{A48FD703-7BEB-47F1-89E4-8CBE72C91A8C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "peinfo_asm", "peinfo_asm\peinfo_asm.vcxproj", "{553B3865-B6FD-41EB-B10F-101468040655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48FD703-7BEB-47F1-89E4-8CBE72C91A8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A48FD703-7BEB-47F1-89E4-8CBE72C91A8C}.Debug|Win32.Build.0 = Debug|Win32
+		{A48FD703-7BEB-47F1-89E4-8CBE72C91A8C}.Release|Win32.ActiveCfg = Release|Win32
+		{A48FD703-7BEB-47F1-89E4-8CBE72C91A8C}.Release|Win32.Build.0 = Release|Win32
+		{553B3865-B6FD-41EB-B10F-101468040655}.Debug|Win32.ActiveCfg = Debug|Win32
+		{553B3865-B6FD-41EB-B10F-101468040655}.Debug|Win32.Build.0 = Debug|Win32
+		{553B3865-B6FD-41EB-B10F-101468040655}.Release|Win32.ActiveCfg = Release|Win32
+		{553B3865-B6FD-41EB-B10F-101468040655}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
